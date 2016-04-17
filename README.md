@@ -1,5 +1,7 @@
 # passeme
 
+[![Join the chat at https://gitter.im/mauriciomelo/passeme](https://badges.gitter.im/mauriciomelo/passeme.svg)](https://gitter.im/mauriciomelo/passeme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Clone and run for a quick way to see an Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
